@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Socialapp</string>
+
+    <string name="facebook_app_id">1657843188058102</string>
+    <string name="fb_login_protocol_scheme">fb1657843188058102</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+
+</resources>
